@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
