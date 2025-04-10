@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
