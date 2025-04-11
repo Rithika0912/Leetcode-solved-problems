@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<bobSizes.length;i++){
             sumB+=bobSizes[i];
         }
-        int avg = (sumB - sumA)/2;
+        int avg = (sumB-sumA)/2;
         HashSet<Integer> hs = new HashSet<>();
         for (int b : bobSizes) {
             hs.add(b);
