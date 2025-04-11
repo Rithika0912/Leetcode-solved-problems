@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 ## Dynamic Programming
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
@@ -61,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->
