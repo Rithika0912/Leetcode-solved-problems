@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
