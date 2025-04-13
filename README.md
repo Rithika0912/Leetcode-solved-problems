@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0953-reverse-only-letters) |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
