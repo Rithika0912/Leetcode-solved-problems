@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
