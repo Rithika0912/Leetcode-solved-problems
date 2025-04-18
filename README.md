@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0889-buddy-strings) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Greedy
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
+| [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
