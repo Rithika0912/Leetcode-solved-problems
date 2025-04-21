@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Greedy
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0724-find-pivot-index) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
