@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
+| [1500-count-largest-group](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1500-count-largest-group) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1500-count-largest-group) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
