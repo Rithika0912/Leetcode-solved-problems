@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Bit Manipulation
 |  |
@@ -114,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0817-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
