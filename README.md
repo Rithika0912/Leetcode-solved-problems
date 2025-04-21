@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0953-reverse-only-letters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Bit Manipulation
 |  |
