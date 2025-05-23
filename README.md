@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Memoization
 |  |
 | ------- |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
 |  |
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/2117-find-original-array-from-doubled-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
 | ------- |
@@ -161,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
