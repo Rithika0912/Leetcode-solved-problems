@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0817-design-hashmap) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0189-rotate-array) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rithika0912/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
